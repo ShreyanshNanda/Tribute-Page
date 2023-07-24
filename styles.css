@@ -1,0 +1,42 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background-color: black;
+}
+
+h1, h3 {
+    margin: 30px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+}
+
+
+img {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+h2 {
+    margin-left: 450px;
+    color: white;
+    font-size: 50px;
+}
+
+p {
+    margin-left: 450px;
+    margin-top: 20px;
+    margin-right: 200px;
+    text-align: justify;
+    color: white;
+}
+
+hr {
+    width: 870px;
+    margin-left: 450px;
+    margin-bottom: 10px;
+}
